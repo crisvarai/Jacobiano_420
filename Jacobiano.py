@@ -1,3 +1,12 @@
+# ---------------------- Información del Script --------------------------
+
+# PROGRAMA: Que efectúa el cálculo del Jacobiano Analítico
+# OBJETIVO: Utilizar la matriz Jacobiana para la Ley de Control
+# FECHA:    15 de Julio 2021
+# DISEÑO:   Ing. Cristian Vallejo
+
+# -------------- Parámetros DH del Brazo Derecho del Robot ---------------
+
 import numpy as np
 
 #------------------------- Declaración de parámetros DH ----------------------------#
