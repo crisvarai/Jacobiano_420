@@ -1,3 +1,10 @@
+# ---------------------- Información del Script --------------------------
+
+# PROGRAMA: Que efectúa el benchmark para el Jacobiano Analítico
+# OBJETIVO: Anilizar el tiempo de cálculo que tomará calcular la matriz Jacobiana
+# FECHA:    15 de Julio 2021
+# DISEÑO:   Ing. Cristian Vallejo
+
 import numpy as np
 import timeit                               # For timing the durations
 
